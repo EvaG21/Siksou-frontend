@@ -1,4 +1,4 @@
-// src/main.jsx
+// Point d’entrée de ton app (charge le composant <App />)
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
